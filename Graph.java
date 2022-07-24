@@ -58,7 +58,7 @@ class Graph {
     
 //DFS
 // directed graph using adjacency
-// list representationr
+// list representation
  
     // A function used by DFS
     void DFSUtil(int v, boolean visited[])
